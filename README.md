@@ -1,5 +1,5 @@
-# Network-Security-Implementing-Fireewallas-and-IDS
-Project name- Network-Security-Implementing-Fireewallas-and- IDS
+# Online Voting
+Project name- Online Voting
 team members 
 Sristy Datta (242-35-099),
 Mumu (242-35-040),
